@@ -743,7 +743,7 @@ function iHeartYou(){
 	if(window.location.hash){
 		vtext.textContent = encryptString(decodeURIComponent(window.location.hash).substring(1));
 	}else{
-		vtext.textContent = "a little message from me to my chuti <3";
+		vtext.textContent = "a little message from me to my angel <3";
 	}
 
 	setTimeout(function(){
